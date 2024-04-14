@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>newrepo2</finalName>
 		
 		<plugins>
 			<plugin>
