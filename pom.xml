@@ -28,7 +28,7 @@
         <json.version>20240303</json.version>
 
         <!-- Sonar -->
-        <sonar.host.url>http://3.110.110.118:9000</sonar.host.url>
+        <sonar.host.url>http://13.235.54.157:9000</sonar.host.url>
         <sonar.login>squ_104f7544f35d7e73a73c5baa8d7a3827ea134343</sonar.login>
         <sonar.projectKey>test2</sonar.projectKey>
         <sonar.projectName>test2</sonar.projectName>
